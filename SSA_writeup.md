@@ -166,24 +166,17 @@ v4l2-ctl -d {0} --set-ctrl {1}={2} # Use this to a webcam value ie:
 v4l2-ctl -d /dev/video1 --set-ctrl focus_absolute=255 # This would set the webcam magnification to the highest setting. P.S. to do this you have to set focus_auto=0
 ```
 
-# Questions?
-There are two pdfs with more info. Additionally, feel free to contact Jack if you have any questions about the code, details on github.
-
 # Contributors
 
 ## Leaders
 Head of SSA: [Tilden Fernandez](http://wiki.chssigma.com/index.php?title=User:Tfernan26)
-
 Chief of Coding: [Jack Timmins](https://github.com/Tim-Jackins)
-
 Chief Engineer [Mike Holt](http://wiki.chssigma.com/index.php?title=User:Mholt09)
 
 ## Launch Specialists
 Dani Szabo
-
 Cole Fairchild
 
 ## Special thanks to:
 Luca Sun
-
 Owen Fernandez
