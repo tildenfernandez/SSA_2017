@@ -102,39 +102,34 @@ GPIO.cleanup() #Turn pin off
 # Pictures
 ## In Space
 
-![In Space](in_space.jpg "Photo from space!")
+![In Space](img/in_space.jpg "Photo from space!")
 
 ## SolidWorks
 
-![Side Wall](Side_wall.png "Side Wall") ![Aluminium Bracket](Aluminium_bracket.png "Bracket") ![GoPro mount](GoPro_mount.png "GoPro mount")
+![Side Wall](img/Side_wall.png "Side Wall") ![Aluminium Bracket](img/Aluminium_bracket.png "Bracket") ![GoPro mount](img/GoPro_mount.png "GoPro mount")
 
-![SSA Bottom](SSA_Bottom.png "Bottom") ![SSA top](SSA_top.png "Top") ![Full SSA Box](full_SSA_box.png "Full Box")
+![SSA Bottom](img/SSA_Bottom.png "Bottom") ![SSA top](img/SSA_top.png "Top") ![Full SSA Box](img/full_SSA_box.png "Full Box")
 
 # Construction
 ## Materials List
 
-<ol>
-    <li> Luon Wood
-    <li> Raspberry Pis
-    <li>Arduino Uno
-    <li>Alumino L Brackets
-    <li>M4 Machine Nut Bolt
-    <li>M4 Machine Nut Nuts
-    <li>M4 Washers
-    <li>Lithium Ion Batteries
-        <ol>
-            <li>1.5 volt AAA in an 8 battery pack for GPS transmitter
-            <li>3.3 volt batteries for Raspberry Pis
-            <li>9 volt batteries for speaker and Arduino
-        </ol>   
-    </li>
-    <li>Speaker
-    <li>Copper wire antenna
-    <li>3d Printed Plastic
-    <li>Four foot Parachute
-    <li>1500 gram weather ballon
-    <li>200 square feet of helium
-</ol>
+* Luon Wood
+* Raspberry Pis
+* Arduino Uno
+* Alumino L Brackets
+* M4 Machine Nut Bolt
+* M4 Machine Nut Nuts
+* M4 Washers
+* Lithium Ion Batteries
+  * 1.5 volt AAA in an 8 battery pack for GPS transmitter
+  * 3.3 volt batteries for Raspberry Pis
+  * 9 volt batteries for speaker and Arduino
+* Speaker
+* Copper wire antenna
+* 3d Printed Plastic
+* Four foot Parachute
+* 1500 gram weather ballon
+* 200 square feet of helium
 
 # Conclusion
 On the coding side we had a few ideas for how to improve this project. 1, switch from the four raspberry pi setup to using only one microcontroller and have four cameras attached to it controlling with the python library cv2.
